@@ -1,7 +1,7 @@
 
 # Sample Size Considerations for Differential Item Functioning
 
-**Abhishek Dey & Tilaye Yeshanew** — Renaissance Learning *(under review)*
+**Abhishek Dey & Tilaye Yeshanew** — Renaissance Learning
 
 Simulation study formalising the data-generating process underlying Winsteps-style DIF detection and characterising how each detection rule behaves as sample size grows. Key results: p-value-based flagging exceeds 10% FPR at n = 750 and continues inflating; Winsteps contrast estimates converge to within 0.13 logits of the true effect by n = 3,750 with FPR at 0%.
 
